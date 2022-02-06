@@ -4,7 +4,7 @@
 
 //recartion:kuno ekta function er vitor theke call korake bola hoi recartion
 function consolenumber(i){
-    if(i>5){
+    if(i>6){
         return;
     }
     console.log(i);
